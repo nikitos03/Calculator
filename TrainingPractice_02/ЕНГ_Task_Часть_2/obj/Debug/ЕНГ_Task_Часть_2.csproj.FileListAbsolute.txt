@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\bin\Debug\ЕНГ_Task_Часть_2.exe.config
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\bin\Debug\ЕНГ_Task_Часть_2.exe
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\bin\Debug\ЕНГ_Task_Часть_2.pdb
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\obj\Debug\ЕНГ_Task_Часть_2.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\obj\Debug\ЕНГ_Task_Часть_2.Properties.Resources.resources
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\obj\Debug\ЕНГ_Task_Часть_2.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\obj\Debug\ЕНГ_Task_Часть_2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\obj\Debug\ЕНГ_Task_Часть_2.exe
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\obj\Debug\ЕНГ_Task_Часть_2.pdb
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\obj\Debug\ЕНГ_Task_Часть_2.Calculator.resources
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\obj\Debug\ЕНГ_Task_Часть_2.Engineering_Calculator.resources
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\obj\Debug\ЕНГ_Task_Часть_2.CalculatorLite.resources
+C:\Users\Asus\Desktop\практика-2\TrainingPractice_02\ЕНГ_Task_Часть_2\obj\Debug\ЕНГ_Task_Часть_2.Graphics.resources
